@@ -1,0 +1,5 @@
+react-app\project-burger\src\hoc
+	make file Aux.js write (
+			const aux = (props) => props.children;
+			export default aux;
+	)
